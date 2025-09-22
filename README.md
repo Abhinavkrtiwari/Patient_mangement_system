@@ -217,5 +217,5 @@ We welcome contributions! Feel free to submit pull requests or open issues to di
 
 ---
 
-### Developed with ❤️ by [Tirtharaj Barma](https://github.com/TirtharajBarma)
+### Developed with ❤️ by Abhinav Kumar Tiwari 
 >>>>>>> 9c304bd (Initial commit)
